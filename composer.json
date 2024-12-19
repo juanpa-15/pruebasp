@@ -1,0 +1,21 @@
+{
+    "name": "jpo/prueba",
+    "description": "A brief description of what your package does.",
+    "require": {
+        "phpunit/phpunit": "^11.5",
+        "psr/log": "^3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Jpo\\Prueba\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "juanpa",
+            "email": "osoriogalvis2585@gmail.com"
+        }
+    ],
+    "license": "MIT"
+
+}
